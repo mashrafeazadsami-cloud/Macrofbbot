@@ -1,4 +1,4 @@
-cat > name_bot_2in1.py << 'EOF'
+
 import telebot
 from faker import Faker
 import random
