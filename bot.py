@@ -7,7 +7,7 @@ import re
 import string
 import requests
 
-TOKEN = '8621840283:AAG8eCCdRFrjd7meNSLNDUVePh9vdwu6IT4'
+TOKEN = '8621840283:AAFwLkIGnNIYHxL1-YzbpbjmlHVcs3AhYJ4'
 
 bot = telebot.TeleBot(TOKEN, parse_mode="Markdown")
 
